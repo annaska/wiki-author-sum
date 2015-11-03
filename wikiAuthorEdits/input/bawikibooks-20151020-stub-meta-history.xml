@@ -1,0 +1,1747 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ba">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>bawikibooks</dbname>
+    <base>https://ba.wikibooks.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82</base>
+    <generator>MediaWiki 1.27.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Махсус</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Фекерләшеү</namespace>
+      <namespace key="2" case="first-letter">Ҡатнашыусы</namespace>
+      <namespace key="3" case="first-letter">Ҡатнашыусы менән һөйләшеү</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks буйынса фекерләшеү</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Файл буйынса фекерләшеү</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki буйынса фекерләшеү</namespace>
+      <namespace key="10" case="first-letter">Ҡалып</namespace>
+      <namespace key="11" case="first-letter">Ҡалып буйынса фекерләшеү</namespace>
+      <namespace key="12" case="first-letter">Белешмә</namespace>
+      <namespace key="13" case="first-letter">Белешмә буйынса фекерләшеү</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Категория буйынса фекерләшеү</namespace>
+      <namespace key="828" case="first-letter">Модуль</namespace>
+      <namespace key="829" case="first-letter">Модуль буйынса фекерләшеү</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Тема</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ҡатнашыусы:Korg</title>
+    <ns>2</ns>
+    <id>1459</id>
+    <revision>
+      <id>3990</id>
+      <timestamp>2005-12-30T03:21:29Z</timestamp>
+      <contributor>
+        <username>Korg</username>
+        <id>4</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3990" bytes="222" />
+      <sha1>h115u54iiufklmsncnujjhh2tp3chfl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Korg/monobook.js</title>
+    <ns>2</ns>
+    <id>1460</id>
+    <revision>
+      <id>3991</id>
+      <timestamp>2005-12-30T03:23:10Z</timestamp>
+      <contributor>
+        <username>Korg</username>
+        <id>4</id>
+      </contributor>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text id="3991" bytes="142" />
+      <sha1>n8hhtsk76wwmtu5gwd8q1lgdriwlgv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Zigger</title>
+    <ns>2</ns>
+    <id>1463</id>
+    <revision>
+      <id>4008</id>
+      <timestamp>2006-01-15T13:24:04Z</timestamp>
+      <contributor>
+        <username>Zigger</username>
+        <id>6</id>
+      </contributor>
+      <comment>en</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4008" bytes="25" />
+      <sha1>gybo516zbujuxv3ot2ofgkubk4v29v0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Zigger</title>
+    <ns>3</ns>
+    <id>1464</id>
+    <revision>
+      <id>4009</id>
+      <timestamp>2006-01-15T13:24:14Z</timestamp>
+      <contributor>
+        <username>Zigger</username>
+        <id>6</id>
+      </contributor>
+      <comment>en</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4009" bytes="30" />
+      <sha1>omkpwu9k9dg8oak6bie88o15bl1o3wa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Az1568</title>
+    <ns>3</ns>
+    <id>1756</id>
+    <redirect title="m:User talk:Az1568" />
+    <revision>
+      <id>4841</id>
+      <timestamp>2007-02-13T06:19:02Z</timestamp>
+      <contributor>
+        <username>Az1568</username>
+        <id>14</id>
+      </contributor>
+      <comment>Перенаправление на [[m:User talk:Az1568]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4841" bytes="32" />
+      <sha1>32439w81wjh9lsqy4si1acx61zmq05t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Az1568</title>
+    <ns>2</ns>
+    <id>1757</id>
+    <revision>
+      <id>4842</id>
+      <timestamp>2007-02-13T06:24:20Z</timestamp>
+      <contributor>
+        <username>Az1568</username>
+        <id>14</id>
+      </contributor>
+      <comment>Page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4842" bytes="869" />
+      <sha1>dow2ere05ge9tyirbl2y6z3jt0g2wpy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Jon Harald Søby</title>
+    <ns>2</ns>
+    <id>1759</id>
+    <revision>
+      <id>4848</id>
+      <timestamp>2007-06-28T15:12:02Z</timestamp>
+      <contributor>
+        <username>Jon Harald Søby</username>
+        <id>16</id>
+      </contributor>
+      <comment>Новая: I am '''[[m:User:Jon Harald Søby|Jon Harald Søby]]'''.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4848" bytes="56" />
+      <sha1>eh4lgj50xcia3aiafu9rv36nexgbnnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Bastique</title>
+    <ns>2</ns>
+    <id>1760</id>
+    <revision>
+      <id>4849</id>
+      <timestamp>2007-08-24T19:20:25Z</timestamp>
+      <contributor>
+        <username>Bastique</username>
+        <id>18</id>
+      </contributor>
+      <comment>new user page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4849" bytes="684" />
+      <sha1>q82rr917mhqbj58k5zwnqzav574pvmc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Bastique</title>
+    <ns>3</ns>
+    <id>1761</id>
+    <redirect title="Ҡатнашыусы:Bastique" />
+    <revision>
+      <id>4850</id>
+      <timestamp>2007-08-24T19:21:52Z</timestamp>
+      <contributor>
+        <username>Bastique</username>
+        <id>18</id>
+      </contributor>
+      <comment>redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4850" bytes="26" />
+      <sha1>re9pcurfvpz64ol26u4tk2z2d5lysgv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Jorunn~bawikibooks</title>
+    <ns>2</ns>
+    <id>1762</id>
+    <revision>
+      <id>4851</id>
+      <timestamp>2007-08-30T12:57:50Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <minor/>
+      <comment>Новая: [[m:User:Jorunn]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4851" bytes="17" />
+      <sha1>ndm6v29if11fq3qel6ud603uyapgva7</sha1>
+    </revision>
+    <revision>
+      <id>4920</id>
+      <parentid>4851</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы:Jorunn]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы:Jorunn~bawikibooks]]: Автоматическое переименован…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4851" bytes="17" />
+      <sha1>ndm6v29if11fq3qel6ud603uyapgva7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Delete</title>
+    <ns>10</ns>
+    <id>1763</id>
+    <revision>
+      <id>4852</id>
+      <timestamp>2007-08-30T12:58:29Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <comment>Новая: {| style=&quot;margin:0.5em; padding:0.5em; background:#FEE; border:1px solid #999;&quot; |- | [[Image:Icono aviso borrar.png|60px|left]] | &lt;big&gt;'''This page has been nominated for speedy deletion...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4852" bytes="935" />
+      <sha1>gxn8g5r17r8td21qlw8buw1irtw3ewj</sha1>
+    </revision>
+    <revision>
+      <id>4881</id>
+      <parentid>4852</parentid>
+      <timestamp>2008-03-28T04:19:31Z</timestamp>
+      <contributor>
+        <username>EVula</username>
+        <id>37</id>
+      </contributor>
+      <minor/>
+      <comment>+ [[aa:Template:Delete]], [[af:Sjabloon:Delete]], [[als:Vorlage:Löschen]], [[ang:Template:Delete]], [[as:Template:Delete]], [[ast:Plantía:Delete]]...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4880" bytes="3202" />
+      <sha1>fos28o1gb5kf03d4hap9gtnas1x2piu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Категория:Candidates for speedy deletion</title>
+    <ns>14</ns>
+    <id>1764</id>
+    <revision>
+      <id>4853</id>
+      <timestamp>2007-08-30T12:58:49Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <comment>Новая: This category is used by [[m:Multilingual speedy deletions]] until local administrators are available.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4853" bytes="102" />
+      <sha1>2xsy0mllj4hooeq56oyi950kvqc7hid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Ooswesthoesbes (usurped)~bawikibooks</title>
+    <ns>2</ns>
+    <id>1765</id>
+    <revision>
+      <id>4854</id>
+      <timestamp>2007-09-16T08:39:46Z</timestamp>
+      <contributor>
+        <username>Ooswesthoesbes (usurped)~bawikibooks</username>
+        <id>19</id>
+      </contributor>
+      <comment>Новая: [[w:li:User:Ooswesthoesbes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4854" bytes="28" />
+      <sha1>reii286ixp3fd3l1fu4e4qy99utz5ma</sha1>
+    </revision>
+    <revision>
+      <id>4893</id>
+      <parentid>4854</parentid>
+      <timestamp>2015-01-03T23:41:19Z</timestamp>
+      <contributor>
+        <username>DerHexer</username>
+        <id>22</id>
+      </contributor>
+      <minor/>
+      <comment>DerHexer [[Ҡатнашыусы:Ooswesthoesbes]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы:Ooswesthoesbes (usurped)]]: Биттең исеме &quot;[[User:Ooswesthoesbes|Oo…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4854" bytes="28" />
+      <sha1>reii286ixp3fd3l1fu4e4qy99utz5ma</sha1>
+    </revision>
+    <revision>
+      <id>4923</id>
+      <parentid>4893</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы:Ooswesthoesbes (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы:Ooswesthoesbes (usurped)~bawikibooks]]: Автомати…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4854" bytes="28" />
+      <sha1>reii286ixp3fd3l1fu4e4qy99utz5ma</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Drini</title>
+    <ns>2</ns>
+    <id>1767</id>
+    <revision>
+      <id>4857</id>
+      <timestamp>2007-09-30T01:18:53Z</timestamp>
+      <contributor>
+        <username>Drini</username>
+        <id>20</id>
+      </contributor>
+      <comment>Linking to my meta page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4857" bytes="64" />
+      <sha1>sfcihnv0kt2e23yhdrjf8g4wimuaqnf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Nospam</title>
+    <ns>4</ns>
+    <id>1768</id>
+    <revision>
+      <id>4858</id>
+      <timestamp>2007-09-30T01:19:05Z</timestamp>
+      <contributor>
+        <username>Drini</username>
+        <id>20</id>
+      </contributor>
+      <comment>Новая: == Pages locked from recreation ==  * {{:MediaWiki Talk :Ipb cant unblock}} * {{:MediaWiki Talk :Ipb cant unblock/}} * {{:MediaWiki Talk :Ipb cant unblock/index.php}} * {{:MediaWiki Talk...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4858" bytes="2447" />
+      <sha1>jv5ej1m6hcvaying4gexvv6dwc8bljv</sha1>
+    </revision>
+    <revision>
+      <id>4859</id>
+      <parentid>4858</parentid>
+      <timestamp>2007-09-30T01:19:13Z</timestamp>
+      <contributor>
+        <username>Drini</username>
+        <id>20</id>
+      </contributor>
+      <minor/>
+      <comment>Защищена страница «[[Wikibooks:Nospam]]» [edit=sysop:move=sysop] [каскадная]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4858" bytes="2447" />
+      <sha1>jv5ej1m6hcvaying4gexvv6dwc8bljv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Jorunn~bawikibooks</title>
+    <ns>3</ns>
+    <id>1769</id>
+    <revision>
+      <id>4860</id>
+      <timestamp>2007-10-03T07:20:22Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <minor/>
+      <comment>Новая: [[m:User talk:Jorunn]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4859" bytes="22" />
+      <sha1>evkf857g608zg618g9s2myerswe978o</sha1>
+    </revision>
+    <revision>
+      <id>4902</id>
+      <parentid>4860</parentid>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4901" bytes="2830" />
+      <sha1>dp6d75v08k65x6yzrla411dpnbz4rkv</sha1>
+    </revision>
+    <revision>
+      <id>4924</id>
+      <parentid>4902</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Jorunn]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Jorunn~bawikibooks]…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4901" bytes="2830" />
+      <sha1>dp6d75v08k65x6yzrla411dpnbz4rkv</sha1>
+    </revision>
+    <revision>
+      <id>4932</id>
+      <parentid>4924</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4917" bytes="3910" />
+      <sha1>lzyul11dmu1n5paovx0o37wm1wvhcz5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Pathoschild</title>
+    <ns>3</ns>
+    <id>1771</id>
+    <revision>
+      <id>4862</id>
+      <timestamp>2007-10-09T03:01:52Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>Новая: [[m:user talk:pathoschild]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4861" bytes="27" />
+      <sha1>euuhnl1goo1elab8h190xs7eyeovy2u</sha1>
+    </revision>
+    <revision>
+      <id>4889</id>
+      <parentid>4862</parentid>
+      <timestamp>2012-02-19T03:52:46Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>global user pages</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4889" bytes="122" />
+      <sha1>dn83oj96ldfnktpf5sd9kd4j5n0nr68</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:DerHexer</title>
+    <ns>2</ns>
+    <id>1772</id>
+    <revision>
+      <id>4863</id>
+      <timestamp>2007-10-19T18:32:12Z</timestamp>
+      <contributor>
+        <username>DerHexer</username>
+        <id>22</id>
+      </contributor>
+      <comment>new</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4862" bytes="1582" />
+      <sha1>c1bazp5mto8zm2ij1plwgy04fqxorhm</sha1>
+    </revision>
+    <revision>
+      <id>4869</id>
+      <parentid>4863</parentid>
+      <timestamp>2008-01-04T13:46:55Z</timestamp>
+      <contributor>
+        <username>DerHexer</username>
+        <id>22</id>
+      </contributor>
+      <minor/>
+      <comment>m</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4868" bytes="1632" />
+      <sha1>d3dqxoh8my0q7ugqestpwnifblh6uw1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Файл:Broom icon.svg</title>
+    <ns>6</ns>
+    <id>1773</id>
+    <revision>
+      <id>4864</id>
+      <timestamp>2007-11-10T16:31:48Z</timestamp>
+      <contributor>
+        <ip>195.5.116.246</ip>
+      </contributor>
+      <comment>rLQFZuHmnKGJiwFJs</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4863" bytes="4" />
+      <sha1>hn87s0kuozp8tkorf8vujhkr4vp2k2t</sha1>
+    </revision>
+    <revision>
+      <id>4865</id>
+      <parentid>4864</parentid>
+      <timestamp>2007-11-14T20:18:24Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <comment>Полностью удалено содержимое страницы</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4864" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:MF-Warburg</title>
+    <ns>2</ns>
+    <id>1774</id>
+    <revision>
+      <id>4866</id>
+      <timestamp>2007-11-18T14:22:12Z</timestamp>
+      <contributor>
+        <username>MF-Warburg</username>
+        <id>23</id>
+      </contributor>
+      <comment>Новая: [[:m:User:MF-Warburg]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4865" bytes="22" />
+      <sha1>81k8lvycfkw3shf3si0ucw4psbk26j0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Cbrown1023</title>
+    <ns>2</ns>
+    <id>1775</id>
+    <revision>
+      <id>4867</id>
+      <timestamp>2007-12-02T05:42:54Z</timestamp>
+      <contributor>
+        <username>Cbrown1023</username>
+        <id>25</id>
+      </contributor>
+      <comment>Новая: [[m:user:Cbrown1023]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4866" bytes="21" />
+      <sha1>m9wmdsm9iojgepovb0oi0p593qsvhu8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Dungodung</title>
+    <ns>2</ns>
+    <id>1776</id>
+    <revision>
+      <id>4868</id>
+      <timestamp>2007-12-23T12:02:19Z</timestamp>
+      <contributor>
+        <username>Dungodung</username>
+        <id>27</id>
+      </contributor>
+      <comment>Новая: [[m:User:Dungodung]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4867" bytes="20" />
+      <sha1>fw9jxkkcfput12sq7mvvzqv9smmyigq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Werdan7</title>
+    <ns>2</ns>
+    <id>1777</id>
+    <revision>
+      <id>4870</id>
+      <timestamp>2008-01-15T21:29:32Z</timestamp>
+      <contributor>
+        <username>Werdan7</username>
+        <id>29</id>
+      </contributor>
+      <comment>Новая: [[m:user:Werdan7]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4869" bytes="18" />
+      <sha1>8nrit81858cbix1lksum0i29k33zhgl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Werdan7</title>
+    <ns>3</ns>
+    <id>1778</id>
+    <revision>
+      <id>4871</id>
+      <timestamp>2008-01-15T21:29:37Z</timestamp>
+      <contributor>
+        <username>Werdan7</username>
+        <id>29</id>
+      </contributor>
+      <comment>Новая: [[m:user talk:Werdan7]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4870" bytes="23" />
+      <sha1>1j7a3dtkviow832meb2kzq21emoa7g0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Mike.lifeguard</title>
+    <ns>2</ns>
+    <id>1779</id>
+    <revision>
+      <id>4872</id>
+      <timestamp>2008-01-21T19:07:40Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>30</id>
+      </contributor>
+      <comment>Новая: [[m:user:Mike.lifeguard]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4871" bytes="25" />
+      <sha1>236tx3nphq7zsog8l3lodr172c0su86</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Mike.lifeguard</title>
+    <ns>3</ns>
+    <id>1780</id>
+    <revision>
+      <id>4873</id>
+      <timestamp>2008-01-21T19:07:48Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>30</id>
+      </contributor>
+      <comment>Новая: [[m:user talk:Mike.lifeguard]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4872" bytes="30" />
+      <sha1>0npg285m5u1p4r64p3iegwv4hsktpdj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:EVula</title>
+    <ns>2</ns>
+    <id>1781</id>
+    <revision>
+      <id>4874</id>
+      <timestamp>2008-03-24T04:13:44Z</timestamp>
+      <contributor>
+        <username>EVula</username>
+        <id>37</id>
+      </contributor>
+      <minor/>
+      <comment>standardizing userpage</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4873" bytes="1993" />
+      <sha1>2qq5uhkoz7ehkwo4ju5kbtv6gioh2k4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:EVula/header</title>
+    <ns>2</ns>
+    <id>1782</id>
+    <revision>
+      <id>4875</id>
+      <timestamp>2008-03-24T04:13:49Z</timestamp>
+      <contributor>
+        <username>EVula</username>
+        <id>37</id>
+      </contributor>
+      <minor/>
+      <comment>adding standard header</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4874" bytes="1041" />
+      <sha1>aa2fe0lj291t188zfg0aqlza8xz88er</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Erkan Yilmaz</title>
+    <ns>2</ns>
+    <id>1783</id>
+    <revision>
+      <id>4876</id>
+      <timestamp>2008-03-25T10:48:47Z</timestamp>
+      <contributor>
+        <username>Erkan Yilmaz</username>
+        <id>38</id>
+      </contributor>
+      <comment>creation</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4875" bytes="5077" />
+      <sha1>8znrn8ci6fok9itlw1t6ruhqmy1u82r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:DerHexer</title>
+    <ns>3</ns>
+    <id>1784</id>
+    <revision>
+      <id>4877</id>
+      <timestamp>2008-03-25T19:35:24Z</timestamp>
+      <contributor>
+        <username>Complex</username>
+        <id>42</id>
+      </contributor>
+      <comment>Новая: Hallo Hexer! --~~~~</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4876" bytes="87" />
+      <sha1>lz4aym5r1la1bvsb0guwimm103jxlhr</sha1>
+    </revision>
+    <revision>
+      <id>4878</id>
+      <parentid>4877</parentid>
+      <timestamp>2008-03-26T11:48:41Z</timestamp>
+      <contributor>
+        <username>DerHexer</username>
+        <id>22</id>
+      </contributor>
+      <comment>aw</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4877" bytes="186" />
+      <sha1>71gjame1uykxwh1ery632pddeghn4x8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Meno25</title>
+    <ns>2</ns>
+    <id>1786</id>
+    <revision>
+      <id>4880</id>
+      <timestamp>2008-03-27T11:08:32Z</timestamp>
+      <contributor>
+        <username>Meno25</username>
+        <id>61</id>
+      </contributor>
+      <comment>Creating</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4879" bytes="77" />
+      <sha1>c9fdbvuuzys60pxs3l9rkk9gb9744yt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Mike.lifeguard/monobook.js</title>
+    <ns>2</ns>
+    <id>1788</id>
+    <revision>
+      <id>4883</id>
+      <timestamp>2008-04-18T01:30:21Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>30</id>
+      </contributor>
+      <comment>Новая: function winc(s) { document.write('&lt;script type=&quot;text/javascript&quot; src=&quot;'               + 'http://meta.wikimedia.org/w/index.php?title=' + s              + '&amp;action=raw&amp;ctype=text/javascr...</comment>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text id="4882" bytes="247" />
+      <sha1>3uscuqakububyt6x0jq3a4y6mqgpp0u</sha1>
+    </revision>
+    <revision>
+      <id>4884</id>
+      <parentid>4883</parentid>
+      <timestamp>2008-05-06T18:00:27Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>30</id>
+      </contributor>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text id="4883" bytes="246" />
+      <sha1>4wp70k0uxkeypn5i6nkvl50ktg23acc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sitenotice</title>
+    <ns>8</ns>
+    <id>1789</id>
+    <revision>
+      <id>4886</id>
+      <timestamp>2009-01-08T04:45:24Z</timestamp>
+      <contributor>
+        <username>Shanel</username>
+        <id>109</id>
+      </contributor>
+      <comment>closure notice</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4885" bytes="259" />
+      <sha1>t4bwh8274e2ezzhy11697oywbwas3bx</sha1>
+    </revision>
+    <revision>
+      <id>4890</id>
+      <parentid>4886</parentid>
+      <timestamp>2014-09-10T12:57:44Z</timestamp>
+      <contributor>
+        <username>Billinghurst</username>
+        <id>349</id>
+      </contributor>
+      <minor/>
+      <comment>locked -&gt; closed, to match naming within http://noc.wikimedia.org/conf/highlight.php?file=closed.dblist, replaced: locked → closed using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4890" bytes="259" />
+      <sha1>236jg5gg8uxe2ns45n0xvlkzv87bhbm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Barras</title>
+    <ns>2</ns>
+    <id>1790</id>
+    <revision>
+      <id>4887</id>
+      <timestamp>2011-08-22T07:52:41Z</timestamp>
+      <contributor>
+        <username>Barras</username>
+        <id>204</id>
+      </contributor>
+      <minor/>
+      <comment>.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4887" bytes="21" />
+      <sha1>cdvi63wxrv8gkd3jonxs4lgdygdiaj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Sir Lestaty de Lioncourt</title>
+    <ns>3</ns>
+    <id>1792</id>
+    <revision>
+      <id>4894</id>
+      <timestamp>2015-01-11T23:01:54Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>global user pages ([[m:Synchbot|requested by Sir Lestaty de Lioncourt]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4893" bytes="153" />
+      <sha1>0738nao5e9r9j989zct5f35xw1x5bxc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Diego Grez-Cañete</title>
+    <ns>3</ns>
+    <id>1793</id>
+    <revision>
+      <id>4896</id>
+      <timestamp>2015-02-20T00:35:47Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>global user pages ([[m:Synchbot|requested by Diego Grez]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4895" bytes="11" />
+      <sha1>4dk4zevx7zb4mh95uavtx21at6jgovp</sha1>
+    </revision>
+    <revision>
+      <id>4943</id>
+      <parentid>4896</parentid>
+      <timestamp>2015-07-29T20:39:21Z</timestamp>
+      <contributor>
+        <username>Global rename script</username>
+        <id>0</id>
+      </contributor>
+      <minor/>
+      <comment>Global rename script  [[Ҡатнашыусы менән һөйләшеү:Diego Grez]] битенең исемен үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Diego Grez-Cañete]]: Автоматическое…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4895" bytes="11" />
+      <sha1>4dk4zevx7zb4mh95uavtx21at6jgovp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Diego Grez-Cañete</title>
+    <ns>2</ns>
+    <id>1794</id>
+    <revision>
+      <id>4897</id>
+      <timestamp>2015-02-22T05:25:08Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>global user pages ([[m:Synchbot|requested by Diego Grez]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4896" bytes="11" />
+      <sha1>4dk4zevx7zb4mh95uavtx21at6jgovp</sha1>
+    </revision>
+    <revision>
+      <id>4941</id>
+      <parentid>4897</parentid>
+      <timestamp>2015-07-29T20:36:47Z</timestamp>
+      <contributor>
+        <username>Global rename script</username>
+        <id>0</id>
+      </contributor>
+      <minor/>
+      <comment>Global rename script  [[Ҡатнашыусы:Diego Grez]] битенең исемен үҙгәртте. Яңы исеме: [[Ҡатнашыусы:Diego Grez-Cañete]]: Автоматическое переименование страницы при п…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4896" bytes="11" />
+      <sha1>4dk4zevx7zb4mh95uavtx21at6jgovp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Küñall</title>
+    <ns>2</ns>
+    <id>1795</id>
+    <redirect title="Ҡатнашыусы:Diego Grez" />
+    <revision>
+      <id>4898</id>
+      <timestamp>2015-02-22T06:00:31Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>global user pages ([[m:Synchbot|requested by Diego Grez]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4897" bytes="29" />
+      <sha1>dn8cbpvviuvifirhp98bd95h2ps48bl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Beau (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1796</id>
+    <revision>
+      <id>4899</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4898" bytes="2822" />
+      <sha1>egfstwtds589k63wfyh1e59sro4bhe9</sha1>
+    </revision>
+    <revision>
+      <id>4918</id>
+      <parentid>4899</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Beau (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Beau (usurp…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4898" bytes="2822" />
+      <sha1>egfstwtds589k63wfyh1e59sro4bhe9</sha1>
+    </revision>
+    <revision>
+      <id>4930</id>
+      <parentid>4918</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4916" bytes="3902" />
+      <sha1>afeobnv7eqxszvhopztqjhtl9o4w3ay</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Dbenbenn (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1797</id>
+    <revision>
+      <id>4900</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4899" bytes="2830" />
+      <sha1>h1i3ljva2lzb25bq4df6q6yq9u9bnsz</sha1>
+    </revision>
+    <revision>
+      <id>4916</id>
+      <parentid>4900</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Dbenbenn (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Dbenben…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4899" bytes="2830" />
+      <sha1>h1i3ljva2lzb25bq4df6q6yq9u9bnsz</sha1>
+    </revision>
+    <revision>
+      <id>4929</id>
+      <parentid>4916</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4915" bytes="3910" />
+      <sha1>jo9624eo73ycwm359qtbetn23fo49so</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:HardDisk (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1798</id>
+    <revision>
+      <id>4901</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4900" bytes="2830" />
+      <sha1>n1sjmw480qe8tg98k7jbvki6u23wuhj</sha1>
+    </revision>
+    <revision>
+      <id>4915</id>
+      <parentid>4901</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:HardDisk (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:HardDis…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4900" bytes="2830" />
+      <sha1>n1sjmw480qe8tg98k7jbvki6u23wuhj</sha1>
+    </revision>
+    <revision>
+      <id>4931</id>
+      <parentid>4915</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4914" bytes="3910" />
+      <sha1>grzkq7qt0gtupwt27khyw752zitgorr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:MediaWiki default</title>
+    <ns>3</ns>
+    <id>1799</id>
+    <revision>
+      <id>4903</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4902" bytes="2828" />
+      <sha1>a390spr5l3y8z0mpjqv6oiaggyt728r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Llull~bawikibooks</title>
+    <ns>3</ns>
+    <id>1800</id>
+    <revision>
+      <id>4904</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4903" bytes="2804" />
+      <sha1>gclkdlpix0oqfz3sgkhomxa21wwnvkk</sha1>
+    </revision>
+    <revision>
+      <id>4921</id>
+      <parentid>4904</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Llull]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Llull~bawikibooks]]:…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4903" bytes="2804" />
+      <sha1>gclkdlpix0oqfz3sgkhomxa21wwnvkk</sha1>
+    </revision>
+    <revision>
+      <id>4933</id>
+      <parentid>4921</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4918" bytes="3884" />
+      <sha1>nqroynea00rs0qt0g532nbrcm1vgy42</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Harald Krichel (SUL problem)</title>
+    <ns>3</ns>
+    <id>1801</id>
+    <revision>
+      <id>4905</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4904" bytes="2850" />
+      <sha1>3q1h9yvtotjgwtgsesnyu29sdtnde5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Prevert (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1802</id>
+    <revision>
+      <id>4906</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4905" bytes="2828" />
+      <sha1>3wgd87pj6l3ynpf8stjfk9yvivl5feb</sha1>
+    </revision>
+    <revision>
+      <id>4917</id>
+      <parentid>4906</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Prevert (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Prevert…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4905" bytes="2828" />
+      <sha1>3wgd87pj6l3ynpf8stjfk9yvivl5feb</sha1>
+    </revision>
+    <revision>
+      <id>4935</id>
+      <parentid>4917</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4920" bytes="3908" />
+      <sha1>j8ypkvw8f2x8ig2ywy45imp86dib3bd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:PDD (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1803</id>
+    <revision>
+      <id>4907</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4906" bytes="2820" />
+      <sha1>5zzebaeg7sh7bsm5ni5omu2b719iriw</sha1>
+    </revision>
+    <revision>
+      <id>4919</id>
+      <parentid>4907</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:PDD (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:PDD (usurped…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4906" bytes="2820" />
+      <sha1>5zzebaeg7sh7bsm5ni5omu2b719iriw</sha1>
+    </revision>
+    <revision>
+      <id>4938</id>
+      <parentid>4919</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4923" bytes="3900" />
+      <sha1>e3bvn3ifd98zdz6r83x0hoji8wsbqpg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:MediaWiki spam cleanup</title>
+    <ns>3</ns>
+    <id>1804</id>
+    <revision>
+      <id>4908</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4907" bytes="2838" />
+      <sha1>bsjdmmzdh7lpb144lvf5lj5vntm3xbp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Spam cleanup script~bawikibooks</title>
+    <ns>3</ns>
+    <id>1805</id>
+    <revision>
+      <id>4909</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4908" bytes="2832" />
+      <sha1>mnz5rirtx4dnk4js7ft7jd3y9tlpdz9</sha1>
+    </revision>
+    <revision>
+      <id>4925</id>
+      <parentid>4909</parentid>
+      <timestamp>2015-04-16T22:24:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Spam cleanup script]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Spam c…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4908" bytes="2832" />
+      <sha1>mnz5rirtx4dnk4js7ft7jd3y9tlpdz9</sha1>
+    </revision>
+    <revision>
+      <id>4937</id>
+      <parentid>4925</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4922" bytes="3912" />
+      <sha1>mb2769o79yrdtrg3aq9sj5yacoo6pxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Ooswesthoesbes (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1806</id>
+    <revision>
+      <id>4912</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4911" bytes="2842" />
+      <sha1>49sfrwi1kvwi9f6lt2vsx6icjljdypq</sha1>
+    </revision>
+    <revision>
+      <id>4922</id>
+      <parentid>4912</parentid>
+      <timestamp>2015-04-16T22:24:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Ooswesthoesbes (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:O…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4911" bytes="2842" />
+      <sha1>49sfrwi1kvwi9f6lt2vsx6icjljdypq</sha1>
+    </revision>
+    <revision>
+      <id>4934</id>
+      <parentid>4922</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4919" bytes="3922" />
+      <sha1>hg6ghooq8dv5j3npjxt9xra1onog82d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Tafkas (usurped)~bawikibooks</title>
+    <ns>3</ns>
+    <id>1807</id>
+    <revision>
+      <id>4910</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4909" bytes="2826" />
+      <sha1>h8q94sbaij7lq8ym3gfin0q6mkthhkq</sha1>
+    </revision>
+    <revision>
+      <id>4927</id>
+      <parentid>4910</parentid>
+      <timestamp>2015-04-16T22:24:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Tafkas (usurped)]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Tafkas (u…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4909" bytes="2826" />
+      <sha1>h8q94sbaij7lq8ym3gfin0q6mkthhkq</sha1>
+    </revision>
+    <revision>
+      <id>4936</id>
+      <parentid>4927</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4921" bytes="3906" />
+      <sha1>37o9re5i8m3np39vhxz24hu8qpz0eyp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Tehut~bawikibooks</title>
+    <ns>3</ns>
+    <id>1808</id>
+    <revision>
+      <id>4911</id>
+      <timestamp>2015-03-17T19:04:53Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4910" bytes="2804" />
+      <sha1>j3tyvp5giu6jave66tp0ea5zcswe3xm</sha1>
+    </revision>
+    <revision>
+      <id>4926</id>
+      <parentid>4911</parentid>
+      <timestamp>2015-04-16T22:24:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Tehut]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Tehut~bawikibooks]]:…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4910" bytes="2804" />
+      <sha1>j3tyvp5giu6jave66tp0ea5zcswe3xm</sha1>
+    </revision>
+    <revision>
+      <id>4940</id>
+      <parentid>4926</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4925" bytes="3884" />
+      <sha1>c7yqhqy0apyoyz8pvifhz4dgxt78deo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Ævar Arnfjörð Bjarmason~bawikibooks</title>
+    <ns>3</ns>
+    <id>1809</id>
+    <revision>
+      <id>4913</id>
+      <timestamp>2015-03-17T19:04:54Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Ваша учётная запись будет переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4912" bytes="2846" />
+      <sha1>na7m0d50t6bmtadrpjjpdr0i8oqk00c</sha1>
+    </revision>
+    <revision>
+      <id>4928</id>
+      <parentid>4913</parentid>
+      <timestamp>2015-04-16T22:24:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>372</id>
+      </contributor>
+      <minor/>
+      <comment>Maintenance script [[Ҡатнашыусы менән һөйләшеү:Ævar Arnfjörð Bjarmason]] битенең исемен йүнәлтеү ҡуймайынса үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4912" bytes="2846" />
+      <sha1>na7m0d50t6bmtadrpjjpdr0i8oqk00c</sha1>
+    </revision>
+    <revision>
+      <id>4939</id>
+      <parentid>4928</parentid>
+      <timestamp>2015-04-17T04:38:25Z</timestamp>
+      <contributor>
+        <username>MediaWiki message delivery</username>
+        <id>370</id>
+      </contributor>
+      <comment>Учётная запись переименована</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4924" bytes="3926" />
+      <sha1>ggzdup3wybhh6ksl1cgcjsnz1qkvdr5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Sevela.p</title>
+    <ns>3</ns>
+    <id>1810</id>
+    <revision>
+      <id>4914</id>
+      <timestamp>2015-03-18T01:22:04Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>21</id>
+      </contributor>
+      <comment>global user pages ([[m:Synchbot|requested by Sevela.p]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4913" bytes="117" />
+      <sha1>7210kk8bqhstp21n3p3mihytpu2dcan</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы:Diego Grez</title>
+    <ns>2</ns>
+    <id>1811</id>
+    <redirect title="Ҡатнашыусы:Diego Grez-Cañete" />
+    <revision>
+      <id>4942</id>
+      <timestamp>2015-07-29T20:36:47Z</timestamp>
+      <contributor>
+        <username>Global rename script</username>
+        <id>0</id>
+      </contributor>
+      <comment>Global rename script  [[Ҡатнашыусы:Diego Grez]] битенең исемен үҙгәртте. Яңы исеме: [[Ҡатнашыусы:Diego Grez-Cañete]]: Автоматическое переименование страницы при п…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4926" bytes="75" />
+      <sha1>92acd9i5zyxtdaedbvl8pxz6uzk7qar</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡатнашыусы менән һөйләшеү:Diego Grez</title>
+    <ns>3</ns>
+    <id>1812</id>
+    <redirect title="Ҡатнашыусы менән һөйләшеү:Diego Grez-Cañete" />
+    <revision>
+      <id>4944</id>
+      <timestamp>2015-07-29T20:39:21Z</timestamp>
+      <contributor>
+        <username>Global rename script</username>
+        <id>0</id>
+      </contributor>
+      <comment>Global rename script  [[Ҡатнашыусы менән һөйләшеү:Diego Grez]] битенең исемен үҙгәртте. Яңы исеме: [[Ҡатнашыусы менән һөйләшеү:Diego Grez-Cañete]]: Автоматическое…</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4927" bytes="103" />
+      <sha1>guml59gq9oqv7k8h78rh6ltqf1egri4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:FlowMention</title>
+    <ns>10</ns>
+    <id>1813</id>
+    <revision>
+      <id>4945</id>
+      <timestamp>2015-08-03T23:29:50Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4928" bytes="65" />
+      <sha1>8lg5sohf6jumxftclnv2a4v2ta98saz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Пинг</title>
+    <ns>10</ns>
+    <id>1814</id>
+    <revision>
+      <id>4946</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4929" bytes="65" />
+      <sha1>8lg5sohf6jumxftclnv2a4v2ta98saz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT Moved thread stub преобразован в Поток</title>
+    <ns>10</ns>
+    <id>1815</id>
+    <revision>
+      <id>4947</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4930" bytes="86" />
+      <sha1>e5j16chw2130kmdotptl65jvxa6lw5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT-страница преобразована в Поток</title>
+    <ns>10</ns>
+    <id>1816</id>
+    <revision>
+      <id>4948</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4931" bytes="241" />
+      <sha1>dwapzn5rxe7zftzg6wyac3eepytz46r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Архив преобразованной LQT-страницы</title>
+    <ns>10</ns>
+    <id>1817</id>
+    <revision>
+      <id>4949</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4932" bytes="168" />
+      <sha1>nigyidinm7czjt0s9dq851dwhckapia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT-публикация, импортированная с подавленным пользователем</title>
+    <ns>10</ns>
+    <id>1818</id>
+    <revision>
+      <id>4950</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4933" bytes="113" />
+      <sha1>1pswkbcu7hauadd98nklgf3pku080ee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT post imported with different signature user</title>
+    <ns>10</ns>
+    <id>1819</id>
+    <revision>
+      <id>4951</id>
+      <timestamp>2015-10-02T19:53:43Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4934" bytes="135" />
+      <sha1>gr9xg2oo9p9alcaf8usi587bcmsi65s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Вики-текст страницы обсуждения преобразован в Поток</title>
+    <ns>10</ns>
+    <id>1820</id>
+    <revision>
+      <id>4952</id>
+      <timestamp>2015-10-02T19:53:43Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4935" bytes="170" />
+      <sha1>nb5brxtthxuj26fiy0cgy1j1ol6zhpf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Архив преобразованного вики-текста страницы обсуждения</title>
+    <ns>10</ns>
+    <id>1821</id>
+    <revision>
+      <id>4953</id>
+      <timestamp>2015-10-02T19:53:43Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4936" bytes="179" />
+      <sha1>hd1xxik7k0u7gcb9oq9ddgh20zmhpy4</sha1>
+    </revision>
+  </page>
+</mediawiki>

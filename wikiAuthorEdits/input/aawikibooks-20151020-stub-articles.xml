@@ -1,0 +1,313 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="aa">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>aawikibooks</dbname>
+    <base>https://aa.wikibooks.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.27.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>2940</id>
+      <parentid>2939</parentid>
+      <timestamp>2009-03-16T01:33:27Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>22</id>
+      </contributor>
+      <comment>blanked, closed &amp; redundant with site notice</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3355" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Delete</title>
+    <ns>10</ns>
+    <id>1487</id>
+    <revision>
+      <id>2931</id>
+      <parentid>2886</parentid>
+      <timestamp>2008-03-28T04:19:26Z</timestamp>
+      <contributor>
+        <username>EVula</username>
+        <id>56</id>
+      </contributor>
+      <minor/>
+      <comment>+ [[af:Sjabloon:Delete]], [[als:Vorlage:Löschen]], [[ang:Template:Delete]], [[as:Template:Delete]], [[ast:Plantía:Delete]]...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3346" bytes="3204" />
+      <sha1>4c3wctm9trgni9zgq0yxtjyx7q0ttcp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Candidates for speedy deletion</title>
+    <ns>14</ns>
+    <id>1488</id>
+    <revision>
+      <id>2887</id>
+      <timestamp>2007-09-12T20:35:39Z</timestamp>
+      <contributor>
+        <username>Jorunn</username>
+        <id>26</id>
+      </contributor>
+      <comment>New page: This category is used by [[m:Multilingual speedy deletions]] until local administrators are available.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3303" bytes="102" />
+      <sha1>2xsy0mllj4hooeq56oyi950kvqc7hid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Nospam</title>
+    <ns>4</ns>
+    <id>1491</id>
+    <revision>
+      <id>2892</id>
+      <parentid>2891</parentid>
+      <timestamp>2007-09-18T19:22:02Z</timestamp>
+      <contributor>
+        <username>Drini</username>
+        <id>31</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Wikibooks:Nospam]]&quot; [edit=sysop:move=sysop] [cascading]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3307" bytes="2233" />
+      <sha1>k8nifvqqtrvidyp7ou44x3kk9wf73ue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Titleblacklist</title>
+    <ns>8</ns>
+    <id>1521</id>
+    <revision>
+      <id>2936</id>
+      <parentid>2932</parentid>
+      <timestamp>2008-05-14T11:07:27Z</timestamp>
+      <contributor>
+        <username>VasilievVV</username>
+        <id>88</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3351" bytes="242" />
+      <sha1>kv3vrnhpehz0ofjblk8okdrvb8at4fd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wikiclosed</title>
+    <ns>8</ns>
+    <id>1523</id>
+    <revision>
+      <id>2937</id>
+      <timestamp>2008-05-14T11:07:38Z</timestamp>
+      <contributor>
+        <username>VasilievVV</username>
+        <id>88</id>
+      </contributor>
+      <comment>New page: This wiki is closed; see [[m:Proposals for closing projects/Closure of Afar Wikibooks]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3352" bytes="88" />
+      <sha1>5xur713dgw4wigayadw7k1skudq5hti</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sitenotice</title>
+    <ns>8</ns>
+    <id>1524</id>
+    <revision>
+      <id>2951</id>
+      <parentid>2938</parentid>
+      <timestamp>2014-09-10T12:33:02Z</timestamp>
+      <contributor>
+        <username>Billinghurst</username>
+        <id>593</id>
+      </contributor>
+      <minor/>
+      <comment>locked -&gt; closed, to match naming within http://noc.wikimedia.org/conf/highlight.php?file=closed.dblist, replaced: locked → closed using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3363" bytes="256" />
+      <sha1>n4hk7ezye2rgjk1zqtyuqfw49nbk6ey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:FlowMention</title>
+    <ns>10</ns>
+    <id>1549</id>
+    <revision>
+      <id>2995</id>
+      <timestamp>2015-08-03T23:29:03Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3395" bytes="49" />
+      <sha1>ht62w5zp7ueoczj6k5jj4tnpk907kdj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT Moved thread stub converted to Flow</title>
+    <ns>10</ns>
+    <id>1550</id>
+    <revision>
+      <id>2996</id>
+      <timestamp>2015-10-02T19:51:56Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3396" bytes="86" />
+      <sha1>e5j16chw2130kmdotptl65jvxa6lw5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT page converted to Flow</title>
+    <ns>10</ns>
+    <id>1551</id>
+    <revision>
+      <id>2997</id>
+      <timestamp>2015-10-02T19:51:56Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3397" bytes="149" />
+      <sha1>njhr9sbh7lx81p2xfwikn7amdd3n1zn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Archive for converted LQT page</title>
+    <ns>10</ns>
+    <id>1552</id>
+    <revision>
+      <id>2998</id>
+      <timestamp>2015-10-02T19:51:57Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3398" bytes="168" />
+      <sha1>nigyidinm7czjt0s9dq851dwhckapia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT post imported with supressed user</title>
+    <ns>10</ns>
+    <id>1553</id>
+    <revision>
+      <id>2999</id>
+      <timestamp>2015-10-02T19:51:57Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3399" bytes="113" />
+      <sha1>1pswkbcu7hauadd98nklgf3pku080ee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT post imported with different signature user</title>
+    <ns>10</ns>
+    <id>1554</id>
+    <revision>
+      <id>3000</id>
+      <timestamp>2015-10-02T19:51:57Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3400" bytes="135" />
+      <sha1>gr9xg2oo9p9alcaf8usi587bcmsi65s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Wikitext talk page converted to Flow</title>
+    <ns>10</ns>
+    <id>1555</id>
+    <revision>
+      <id>3001</id>
+      <timestamp>2015-10-02T19:51:57Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3401" bytes="127" />
+      <sha1>ccusakfp9y2sl227h5sbt4ok1ptcsxi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Archive for converted wikitext talk page</title>
+    <ns>10</ns>
+    <id>1556</id>
+    <revision>
+      <id>3002</id>
+      <timestamp>2015-10-02T19:51:57Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>621</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="3402" bytes="179" />
+      <sha1>hd1xxik7k0u7gcb9oq9ddgh20zmhpy4</sha1>
+    </revision>
+  </page>
+</mediawiki>

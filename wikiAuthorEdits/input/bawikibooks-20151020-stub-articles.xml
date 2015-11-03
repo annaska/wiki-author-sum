@@ -1,0 +1,295 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ba">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>bawikibooks</dbname>
+    <base>https://ba.wikibooks.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82</base>
+    <generator>MediaWiki 1.27.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Махсус</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Фекерләшеү</namespace>
+      <namespace key="2" case="first-letter">Ҡатнашыусы</namespace>
+      <namespace key="3" case="first-letter">Ҡатнашыусы менән һөйләшеү</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks буйынса фекерләшеү</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Файл буйынса фекерләшеү</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki буйынса фекерләшеү</namespace>
+      <namespace key="10" case="first-letter">Ҡалып</namespace>
+      <namespace key="11" case="first-letter">Ҡалып буйынса фекерләшеү</namespace>
+      <namespace key="12" case="first-letter">Белешмә</namespace>
+      <namespace key="13" case="first-letter">Белешмә буйынса фекерләшеү</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Категория буйынса фекерләшеү</namespace>
+      <namespace key="828" case="first-letter">Модуль</namespace>
+      <namespace key="829" case="first-letter">Модуль буйынса фекерләшеү</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Тема</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ҡалып:Delete</title>
+    <ns>10</ns>
+    <id>1763</id>
+    <revision>
+      <id>4881</id>
+      <parentid>4852</parentid>
+      <timestamp>2008-03-28T04:19:31Z</timestamp>
+      <contributor>
+        <username>EVula</username>
+        <id>37</id>
+      </contributor>
+      <minor/>
+      <comment>+ [[aa:Template:Delete]], [[af:Sjabloon:Delete]], [[als:Vorlage:Löschen]], [[ang:Template:Delete]], [[as:Template:Delete]], [[ast:Plantía:Delete]]...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4880" bytes="3202" />
+      <sha1>fos28o1gb5kf03d4hap9gtnas1x2piu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Категория:Candidates for speedy deletion</title>
+    <ns>14</ns>
+    <id>1764</id>
+    <revision>
+      <id>4853</id>
+      <timestamp>2007-08-30T12:58:49Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <comment>Новая: This category is used by [[m:Multilingual speedy deletions]] until local administrators are available.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4853" bytes="102" />
+      <sha1>2xsy0mllj4hooeq56oyi950kvqc7hid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Nospam</title>
+    <ns>4</ns>
+    <id>1768</id>
+    <revision>
+      <id>4859</id>
+      <parentid>4858</parentid>
+      <timestamp>2007-09-30T01:19:13Z</timestamp>
+      <contributor>
+        <username>Drini</username>
+        <id>20</id>
+      </contributor>
+      <minor/>
+      <comment>Защищена страница «[[Wikibooks:Nospam]]» [edit=sysop:move=sysop] [каскадная]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4858" bytes="2447" />
+      <sha1>jv5ej1m6hcvaying4gexvv6dwc8bljv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Файл:Broom icon.svg</title>
+    <ns>6</ns>
+    <id>1773</id>
+    <revision>
+      <id>4865</id>
+      <parentid>4864</parentid>
+      <timestamp>2007-11-14T20:18:24Z</timestamp>
+      <contributor>
+        <username>Jorunn~bawikibooks</username>
+        <id>17</id>
+      </contributor>
+      <comment>Полностью удалено содержимое страницы</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4864" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sitenotice</title>
+    <ns>8</ns>
+    <id>1789</id>
+    <revision>
+      <id>4890</id>
+      <parentid>4886</parentid>
+      <timestamp>2014-09-10T12:57:44Z</timestamp>
+      <contributor>
+        <username>Billinghurst</username>
+        <id>349</id>
+      </contributor>
+      <minor/>
+      <comment>locked -&gt; closed, to match naming within http://noc.wikimedia.org/conf/highlight.php?file=closed.dblist, replaced: locked → closed using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4890" bytes="259" />
+      <sha1>236jg5gg8uxe2ns45n0xvlkzv87bhbm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:FlowMention</title>
+    <ns>10</ns>
+    <id>1813</id>
+    <revision>
+      <id>4945</id>
+      <timestamp>2015-08-03T23:29:50Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4928" bytes="65" />
+      <sha1>8lg5sohf6jumxftclnv2a4v2ta98saz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Пинг</title>
+    <ns>10</ns>
+    <id>1814</id>
+    <revision>
+      <id>4946</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4929" bytes="65" />
+      <sha1>8lg5sohf6jumxftclnv2a4v2ta98saz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT Moved thread stub преобразован в Поток</title>
+    <ns>10</ns>
+    <id>1815</id>
+    <revision>
+      <id>4947</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4930" bytes="86" />
+      <sha1>e5j16chw2130kmdotptl65jvxa6lw5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT-страница преобразована в Поток</title>
+    <ns>10</ns>
+    <id>1816</id>
+    <revision>
+      <id>4948</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4931" bytes="241" />
+      <sha1>dwapzn5rxe7zftzg6wyac3eepytz46r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Архив преобразованной LQT-страницы</title>
+    <ns>10</ns>
+    <id>1817</id>
+    <revision>
+      <id>4949</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4932" bytes="168" />
+      <sha1>nigyidinm7czjt0s9dq851dwhckapia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT-публикация, импортированная с подавленным пользователем</title>
+    <ns>10</ns>
+    <id>1818</id>
+    <revision>
+      <id>4950</id>
+      <timestamp>2015-10-02T19:53:42Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4933" bytes="113" />
+      <sha1>1pswkbcu7hauadd98nklgf3pku080ee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:LQT post imported with different signature user</title>
+    <ns>10</ns>
+    <id>1819</id>
+    <revision>
+      <id>4951</id>
+      <timestamp>2015-10-02T19:53:43Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4934" bytes="135" />
+      <sha1>gr9xg2oo9p9alcaf8usi587bcmsi65s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Вики-текст страницы обсуждения преобразован в Поток</title>
+    <ns>10</ns>
+    <id>1820</id>
+    <revision>
+      <id>4952</id>
+      <timestamp>2015-10-02T19:53:43Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4935" bytes="170" />
+      <sha1>nb5brxtthxuj26fiy0cgy1j1ol6zhpf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ҡалып:Архив преобразованного вики-текста страницы обсуждения</title>
+    <ns>10</ns>
+    <id>1821</id>
+    <revision>
+      <id>4953</id>
+      <timestamp>2015-10-02T19:53:43Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>373</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text id="4936" bytes="179" />
+      <sha1>hd1xxik7k0u7gcb9oq9ddgh20zmhpy4</sha1>
+    </revision>
+  </page>
+</mediawiki>
