@@ -104,7 +104,7 @@ public class wikiAuthorEdits {
  	private static Collection<String> getXMLString(String path) { 
 		
  		SAXParserFactory factory = SAXParserFactory.newInstance();
- 		SAXParser saxParser = null;
+ 		SAXParser saxParser;
  		PageHandler handler = new PageHandler();
  		
  		try {
@@ -112,8 +112,13 @@ public class wikiAuthorEdits {
 			saxParser.parse(new File(path), handler);
 			return handler.getPageCol();
 			
- 		} catch (ParserConfigurationException|SAXException|IOException e) {
-			System.err.println("Exception beim Ausführen des SAXParsers.");
+ 		} catch (ParserConfigurationException e) {
+			e.printStackTrace();
+			return null;
+		}catch (SAXException e) {
+			e.printStackTrace();
+			return null;
+		}catch (IOException e) {
 			e.printStackTrace();
 			return null;
 		}
