@@ -24,8 +24,8 @@ import org.apache.flink.util.Collector;
 
 
 /**
- * Liest aus (kleinen) Wikipedia XML Dump Files (Format wird dabei noch nicht geprüft) die Namen 
- * der Autoren und gibt sie mit der Summe der Edits für Pages in Namespace 0 aus.
+ * Liest aus (kleinen) Wikipedia XML Dump Files (Format wird dabei noch nicht geprÃ¼ft) die Namen 
+ * der Autoren und gibt sie mit der Summe der Edits fÃ¼r Pages in Namespace 0 aus.
  */
 public class wikiAuthorEdits {
 
@@ -115,7 +115,7 @@ public class wikiAuthorEdits {
 			return handler.getPageCol();
 			
  		} catch (ParserConfigurationException|SAXException|IOException e) {
-			System.err.println("Exception beim Ausführen des SAXParsers.");
+			System.err.println("Exception beim AusfÃ¼hren des SAXParsers.");
 			e.printStackTrace();
 			return null;
 		}
